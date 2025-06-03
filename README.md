@@ -155,6 +155,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Lucas Furlanetto - [@furlanilucas](https://github.com/furlanilucas)
+Lucas Furlani - [@furlanilucas](https://github.com/furlanilucas)
 
 Link do projeto: [https://github.com/furlanilucas/banco-de-ideias-full](https://github.com/furlanilucas/banco-de-ideias-full) 
